@@ -1,4 +1,4 @@
-# NZ PhotoViewer (NZ Picasa)
+# NZ View
 
 A lightweight, blazing-fast image, comic, and webtoon viewer for Windows 10 & 11, powered by **Direct2D GPU acceleration** and inspired by the classic soul of **Google Picasa**.
 
