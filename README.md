@@ -25,11 +25,11 @@ A lightweight, blazing-fast image, comic, and webtoon viewer for Windows 10 & 11
 
 ## 📥 Download
 
-Download the latest version from the **[Releases](https://github.com/NZTools-Dev/NZPhotoViewer/releases)** page:
+Download the latest version from the **[Releases](https://github.com/NZTools-Dev/NZView/releases)** page:
 
-- **Setup Installer (Recommended)**: `NZ_PhotoViewer_Setup.exe` (1-second fast install with Windows file associations)
-- **Portable 64-bit**: `NZPhotoViewer_Portable_x64.zip` (No installation needed)
-- **Portable 32-bit**: `NZPhotoViewer_Portable_x86.zip`
+- **Setup Installer (Recommended)**: `NZ_View_Setup.exe` (1-second fast install with Windows file associations)
+- **Portable 64-bit**: `NZView_Portable_x64.zip` (No installation needed)
+- **Portable 32-bit**: `NZView_Portable_x86.zip`
 
 ---
 
